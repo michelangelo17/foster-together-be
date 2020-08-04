@@ -1,3 +1,9 @@
+# NOTE: 
+## This repo is a personal fork of the main project and the main branch will represent a snapshot of the group work as completed in a 7 week span with the team members listed below. Links to repositories below will take you to the active project. 
+
+# Michelangelo's Key Contributions: 
+## CI/CD, Staging and Production deployments, authentication and authorization system, DB Schema, CRUD routes. 
+
 # API Documentation
 
 #### Backend deployed using [AWS](https://api.fostertogether.co/) <br>
